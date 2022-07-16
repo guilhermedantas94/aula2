@@ -1,0 +1,45 @@
+/*
+html{
+    scroll-behavior: smooth;
+}
+
+*/
+
+div{
+    scroll-margin-top:  80px;
+}
+
+
+.btn-pink{
+    background-color: pink;
+    color: purple;
+}
+
+.nav-link{
+    color: #333 !important;
+}
+
+.bg-family{
+    background-color: #76a3bc;
+}
+
+.bg-footer{
+    background-color: #003366;
+}
+
+.carousel-caption{
+
+    text-shadow:  3px 3px 5px #000;
+}
+
+#carouselExampleCaptions{
+
+    margin-top: 95px;
+}
+
+.carousel-indicators [data-bs-target] {
+
+    width: 10px;
+    height:10px;
+    border-radius: 50%
+}
